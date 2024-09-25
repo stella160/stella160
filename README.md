@@ -33,6 +33,36 @@
 </div>
 
 
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br/>
+<div align="center">
+    <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
+    <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
+    <img src="https://img.shields.io/badge/STATA-7D9B9C?style=flat&logo=stata&logoColor=white" />
+    <img src="https://img.shields.io/badge/SPSS-3A8EBA?style=flat&logo=spss&logoColor=white" />
+    <img src="https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white" />
+    <img src="https://img.shields.io/badge/Word-2B579A?style=flat&logo=microsoft-word&logoColor=white" />
+    <img src="https://img.shields.io/badge/PowerPoint-D9534F?style=flat&logo=microsoft-powerpoint&logoColor=white" />
+    <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=flat&logo=powerbi&logoColor=black" />
+</div>
+
+<br/>
+<hr/>
+
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+ <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+<hr/>
+
+
+
+
 <!--
 **stella160/stella160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
