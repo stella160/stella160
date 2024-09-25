@@ -12,13 +12,27 @@
  
  🔭 I’m currently working on **Meru -Breast Cancer Project**
  
- 🌱 I’m learning **Bioinformatics, Machine Learning, Statistics, Data Management**
+ 🌱 I’m learning **Bioinformatics, Machine Learning, Statistics, Data Management, Qualitative data analysis**
 
-💬 Ask me about **R, Python, Biostatistics, Epidemiology, or Data Science**
+💬 Ask me about **R, Python, STATA, Biostatistics, or Data Science**
 
-⚡ Fun fact: **When I’m not analyzing data, I’m probably hosting an epic party for fellow students at UC Berkeley 🎉**
+⚡ Fun fact: **Analyzing data is just like cooking (following the recipe)🎉**
 
 </div>
+
+<div align="center"> 
+  <a href="mailto:stellamarries.syombua@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="www.linkedin.com/in/stellamarries-syombua-59151a260" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://stellamarries.github.io" target="_blank">
+     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" />
+  </a>
+</div>
+
+
 <!--
 **stella160/stella160** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
