@@ -33,7 +33,7 @@
 </div>
 
 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<h2 align="center">⚒️Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
     <img src="https://img.shields.io/badge/R-276DC3?style=flat&logo=R&logoColor=white" />
