@@ -47,9 +47,6 @@
     <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=flat&logo=powerbi&logoColor=black" />
 </div>
 
-<br/>
-<hr/>
-
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
  <br>
