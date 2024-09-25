@@ -46,10 +46,12 @@
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
     <img src="https://img.shields.io/badge/Power_BI-F2C94C?style=flat&logo=powerbi&logoColor=black" />
 </div>
+<br/>
+<hr/>
 
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
- <br>
+  <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/stella160/stella160/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
