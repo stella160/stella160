@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Meru -Breast Cancer Project**
  
- 🌱 I’m learning **Bioinformatics, Machine Learning, Statistics, Data Management, Qualitative data analysis**
+ 🌱 I’m learning **Biostatistics, Machine Learning, Statistics, Data Management, Qualitative data analysis**
 
 💬 Ask me about **R, Python, STATA, Biostatistics, or Data Science**
 
