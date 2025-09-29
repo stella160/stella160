@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+Everyone!+👋;+I'm+Stellamarries+Syombua!;" />
 </h1>
 
-<h3 align="center">Biostatistics Graduate | Data Analyst | Researcher | Bioinformatics Enthusiast</h3>
+<h3 align="center">Biostatistician | Data Analyst | Statistical analyst</h3>
 
 <br/>
 
@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on **Meru -Breast Cancer Project**
  
- 🌱 I’m learning **Biostatistics, Machine Learning, Statistics, Data Management, Qualitative data analysis**
+ 🌱 I’m learning **Biostatistics, Machine Learning, Statistics, Data Analysis, Staistical Analysis**
 
 💬 Ask me about **R, Python, STATA, Biostatistics, or Data Science**
 
